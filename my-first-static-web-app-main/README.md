@@ -2,10 +2,7 @@
 
 
               
-### CODE LINKS:
-hEALTH-I-BOT Backend code link: https://github.com/PrathmeshMutke/Health-bot
-Deployed link: https://ashy-bay-04c0abc00.1.azurestaticapps.net/
-Arduino Code link: https://github.com/PrathmeshMutke/healthibot
+
 
 ## Running the code:
 Due to glitches in the AWS server , our database Postgresql want configurd with the deployed link.
